@@ -16,6 +16,8 @@
 [standard-image]: https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat
 [standard-url]: http://standardjs.com
 
+**NOTE: THIS PROJECT IS DEPRECATED AND NO LONGER MAINTAINED. The active fork for this project is now located at [syscoin/syscoin-core](https://github.com/syscoin/syscoin-core).**
+
 node-syscoin is a simple wrapper for the Syscoin client's JSON-RPC API.
 
 The API is equivalent to the API document [here](https://en.bitcoin.it/wiki/Original_Bitcoin_client/API_Calls_list).
